@@ -1,2 +1,2 @@
 # Compiler-Design
-CD S4 RSET
+CD S5 RSET
