@@ -1,0 +1,5 @@
+int a = b + c 
+z=x+y 
+p=q*d123 
+if
+else if
