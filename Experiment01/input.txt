@@ -1,0 +1,7 @@
+int a = b + c 
+z = x + y
+p = q * d 123 
+if
+else
+1
+12
