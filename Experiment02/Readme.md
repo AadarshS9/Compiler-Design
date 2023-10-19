@@ -7,9 +7,9 @@ Implementation of Lexical Analyzer using Lex Tool
 
  # SOLUTION
  - a) pgm1.l
- - b) pgm2.l
- - c) pgm3.l
- - d) pgm4.l
+ - b) pgm4.l
+ - c) pgm2.l
+ - d) pgm3.l
 
 # HOW TO COMPILE AND RUN
 To run a lex file, kindly do the following:
