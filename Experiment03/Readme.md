@@ -1,13 +1,9 @@
 3. Generate YACC specification for a few syntactic categories.
-a). Implementation of Calculator using LEX and YACC
-PROGRAM 1 USING LEX AND YACC
-PROGRAM 2 USING YACC ONLY
+a). Implementation of Calculator using LEX and YACC PROGRAM 1 USING LEX AND YACC, PROGRAM 2 USING YACC ONLY
 
-b). Program to recognize a valid arithmetic expression that uses operator +, – , * and /.
-PROGRAM3
+b). Program to recognize a valid arithmetic expression that uses operator +, – , * and /. PROGRAM3
 
-c). Program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
-PROGRAM 4
+c). Program to recognize a valid variable which starts with a letter followed by any number of letters or digits. PROGRAM 4
 
 
 
