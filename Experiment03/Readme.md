@@ -12,12 +12,12 @@ PROGRAM 4
 
 
 To run a yacc only file, do
-yacc pgm2.y -d
-cc y.tab.c
+yacc pgm2.y -d then
+cc y.tab.c then
 ./a.out
 
 To run lex and yacc do,
-yacc pgm3.y -d
-lex pgm3.l
-gcc lex.yy.c y.tab.c -ll
+yacc pgm3.y -d then
+lex pgm3.l then
+gcc lex.yy.c y.tab.c -ll then
 ./a.out
