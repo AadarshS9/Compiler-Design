@@ -3,6 +3,7 @@
 #include<ctype.h>
 int yylex();
 int yyerror();
+int yyparse();
 int flag=0; 
 %}
 
@@ -57,4 +58,3 @@ int yylex()
     }
     return c;
 }
-
