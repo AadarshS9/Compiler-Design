@@ -1,8 +1,13 @@
-4. a). Implementation of Lexical Analyzer using Lex Tool to eliminate white space and comments PROGRAM 1
+# QUESTION
+- 1) Implementation of Lexical Analyzer using Lex Tool to eliminate white space and comments
+- 2) Implementation of Lexical Analyzer using Lex Tool to ignore redundant spaces, tabs and new lines.
 
-b). Implementation of Lexical Analyzer using Lex Tool to ignore redundant spaces, tabs and new lines. PROGRAM 2
+# SOLUTION
+- 1) pgm1.l
+- 2) pgm2.l
 
-To run a lex file do,
-lex pgm1.l then
-gcc lex.yy.c then
-./a.out
+ # HOW TO COMPILE AND RUN
+ To run a lex file, kindly do the following:
+ - lex filename.l 
+- gcc lex.yy.c
+- ./a.out
