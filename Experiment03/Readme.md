@@ -1,19 +1,22 @@
-3. Generate YACC specification for a few syntactic categories.
-a). Implementation of Calculator using LEX and YACC PROGRAM 1 USING LEX AND YACC, PROGRAM 2 USING YACC ONLY
+# QUESTION
+Generate YACC specification for a few syntactic categories.
+- 1) Implementation of Calculator using LEX and YACC
+- 2) Program to recognize a valid arithmetic expression that uses operator +, – , * and /.
+- 3) Program to recognize a valid variable which starts with a letter followed by any number of letters or digits. 
 
-b). Program to recognize a valid arithmetic expression that uses operator +, – , * and /. PROGRAM3
+# SOLUTION
+- 1) pgm1.l and pgm1.y / pgm2.y (yacc only)
+- 2) pgm3.l and pgm3.y
+  3) pgm4.l and pgm4.y
+ 
+# HOW TO COMPILE AND RUN
+- To run a yacc only file, kindly do the following:
+  - yacc filename.y -d
+  - cc y.tab.c
+  - ./a.out
 
-c). Program to recognize a valid variable which starts with a letter followed by any number of letters or digits. PROGRAM 4
-
-
-
-To run a yacc only file, do
-yacc pgm2.y -d then
-cc y.tab.c then
-./a.out
-
-To run lex and yacc do,
-yacc pgm3.y -d then
-lex pgm3.l then
-gcc lex.yy.c y.tab.c -ll then
-./a.out
+- To run a lex and yacc file, kindly do the following:
+  - yacc filename.y -d 
+  - lex filename.l
+  - gcc lex.yy.c y.tab.c -ll
+  - ./a.out
