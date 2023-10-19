@@ -1,5 +1,8 @@
 %{ 
   #include<stdio.h> 
+  void yyerror();
+  int yyparse();
+  int yylex();
   int flag=0; 
 %} 
 %token NUMBER 
