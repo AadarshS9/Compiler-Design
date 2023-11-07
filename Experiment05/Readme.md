@@ -1,5 +1,5 @@
 # QUESTION
-Simulation of DFA
+Conversion of NFA to DFA
 
 # SOLUTION
 - exp1.c
