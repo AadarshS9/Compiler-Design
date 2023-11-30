@@ -3,4 +3,5 @@ Construct Shift reduce parser for a given language and check a given string acce
 
 # SOLUTION
 - exp1.c
-- exp1.png
+- exp1_1.png
+- exp1_2.png
