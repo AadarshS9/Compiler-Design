@@ -1,5 +1,5 @@
 # QUESTION
-Implement ICG for simple expressions
+Implement Intermediate Code Generation (ICG) for simple expressions
 
 # SOLUTION
 - exp1.c
